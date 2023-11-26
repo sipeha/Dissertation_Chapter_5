@@ -1,3 +1,1 @@
-This repo is for **something**
-
-This is a good place to include things like - what JAGS/NIMBLE/R version and OS did you run this code on. With what settings. How long did it take. How much juice did it take. 
+This repo is for Hannah Sipe's dissertation Chapter 5 titled 'Reintroduction strategy development and evaluation for a threatened grassland passerine using decision analysis'. 
